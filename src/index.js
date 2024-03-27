@@ -9,7 +9,7 @@ const DataQuestion = [
     {
 
         question: "Comment déclarer une variable en Javascript",
-        options: ["let ma_variable= 'exemple'", "'let ma_variable='exemple'"],
+        options: [" let ma_variable= 'exemple' ", "'let ma_variable='exemple'"],
         answer: " let ma_variable= 'exemple' "
     },
 
